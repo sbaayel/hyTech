@@ -1,15 +1,15 @@
-# **Front End Project Title**
+# **HyTech**
 
 ## Project Planning
 
 > – The Project Planning section should be completed for your project pitch with instructors.
-> – To ensure correct Markdown, I recommend cloning this wiki and copy/pasting the raw template code.
+> 
 
 <br>
 
 ### Overview
 
-_**Project Title** is lorem ipsum dolor sit amet. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper._
+_**HyTech** TechBlog community where users can provide tech input_
 
 <br>
 
@@ -17,7 +17,7 @@ _**Project Title** is lorem ipsum dolor sit amet. Phasellus dapibus fermentum ri
 
 > Use the Wireframes section to display desktop, tablet and mobile views.
 
-![Dummy Link](url)
+![Dummy Link](https://xd.adobe.com/view/b490b505-b361-4ae6-6d4c-14ac61a08f70-c2a1/.png)
 
 - Desktop Landing
 
@@ -47,17 +47,25 @@ _**Project Title** is lorem ipsum dolor sit amet. Phasellus dapibus fermentum ri
 
 > The Minimum Viable Product should be a well-planned and easily-communicated product, ensuring that the client's deliverable will be achievable and meet specifications within the time frame estimated.
 
-_The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper._
+
 
 <br>
 
 #### Goals
 
-- _Lorem ipsum, dolor sit amet,_
-- _consectetur adipiscing elit._
-- _Phasellus dapibus fermentum risus vitae bibendum._
-- _Integer vel ipsum mollis odio sollicitudin ornare eu vel ex._
-- _etc._
+- Have the frontend deployed on [Surge](https://gist.github.com/brunopgalvao/0d8fcaabe8f1a6d862397160d933e3f6)
+- Have the backend deployed on [Heroku](https://www.heroku.com)
+- Deploy MongoDB database to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+- Include CRUD on the backend using Express, Mongoose, and MongoDB
+- Have hand-rolled jwt authentication system (included)
+- Use flexbox and/or css grid
+- Include a minimum of 5 components that your team has built
+- Use React Router (included)
+- Look like your mockup (or better)
+- Be properly indented and spaced
+- Not include commented out code in the `master` branch
+- Use camelCase for javascript code
+- Use a color [palette generator](https://mycolor.space)
 
 <br>
 
